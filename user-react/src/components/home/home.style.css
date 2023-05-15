@@ -1,0 +1,5 @@
+.new_tweet {
+    display: flex;
+    min-height: 140px !important;
+    width: 100%;
+}
